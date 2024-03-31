@@ -1,0 +1,14 @@
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Programming\C#\Task-4-1\project\bin\Debug\net7.0\Project.exe
+C:\Programming\C#\Task-4-1\project\bin\Debug\net7.0\Project.deps.json
+C:\Programming\C#\Task-4-1\project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Programming\C#\Task-4-1\project\bin\Debug\net7.0\Project.dll
+C:\Programming\C#\Task-4-1\project\bin\Debug\net7.0\Project.pdb
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.dll
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\refint\Project.dll
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.pdb
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Programming\C#\Task-4-1\project\obj\Debug\net7.0\ref\Project.dll
